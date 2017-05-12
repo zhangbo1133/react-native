@@ -1,9 +1,6 @@
 // Copyright 2004-present Facebook. All Rights Reserved.
 
-#include <JavaScriptCore/JSProfilerPrivate.h>
-#include <JavaScriptCore/JSValueRef.h>
 #include <fb/fbjni.h>
-#include <jschelpers/JSCHelpers.h>
 
 #include "JSPackagerClientResponder.h"
 

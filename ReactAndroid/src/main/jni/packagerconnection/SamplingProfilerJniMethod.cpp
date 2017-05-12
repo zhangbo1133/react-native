@@ -2,6 +2,10 @@
 
 #include "SamplingProfilerJniMethod.h"
 
+#include <JavaScriptCore/JSProfilerPrivate.h>
+#include <JavaScriptCore/JSValueRef.h>
+
+#include <jschelpers/JSCHelpers.h>
 #include <jni.h>
 #include <string>
 
